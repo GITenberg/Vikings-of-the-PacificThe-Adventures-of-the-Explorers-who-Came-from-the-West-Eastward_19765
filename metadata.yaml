@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '7761'
     url: http://www.gutenberg.org/2009/agents/7761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19765#Vikings-of-the-PacificThe-Adventures-of-the-Explorers-who-Came-from-the-West-Eastward
 gutenberg_issued: '2006-11-11'
 gutenberg_type: Text
 identifiers:
